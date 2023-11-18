@@ -6,9 +6,10 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.util.Log;
 
-import com.example.reclyclerviewymodeladodedatos.Alumno;
+import com.trabajo.alumnossqlite.Alumno;
 
 import java.util.ArrayList;
+
 
 public class AlumnosDb implements Persistencia, Proyeccion {
 

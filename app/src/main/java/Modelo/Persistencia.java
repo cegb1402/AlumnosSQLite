@@ -1,6 +1,7 @@
 package Modelo;
 
-import com.example.reclyclerviewymodeladodedatos.Alumno;
+
+import com.trabajo.alumnossqlite.Alumno;
 
 public interface Persistencia {
     public void openDataBase();

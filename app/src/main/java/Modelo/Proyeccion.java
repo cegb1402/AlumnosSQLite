@@ -2,7 +2,8 @@ package Modelo;
 
 import android.database.Cursor;
 
-import com.example.reclyclerviewymodeladodedatos.Alumno;
+
+import com.trabajo.alumnossqlite.Alumno;
 
 import java.util.ArrayList;
 
